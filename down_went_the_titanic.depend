@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1446156282 source:d:\arquivos do usuario\desktop\down_went_the_titanic\funcoes.c
+	"header.h"
+
+1446153161 
+
+1446153161 d:\arquivos do usuario\desktop\down_went_the_titanic\header.h
+	<stdio.h>
+	<malloc.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+
+1446155842 source:d:\arquivos do usuario\desktop\down_went_the_titanic\main.c
+	"header.h"
+
+1446580664 source:/home/redproxy/Área de Trabalho/versao_1/funcoes.c
+	"header.h"
+
+1446585578 /home/redproxy/Área de Trabalho/versao_1/header.h
+	<stdio.h>
+	<malloc.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+
+1446585402 source:/home/redproxy/Área de Trabalho/versao_1/main.c
+	"header.h"
+
+1446661767 source:/home/redproxy/Área de Trabalho/versao_2/funcoes.c
+	"header.h"
+
+1446661793 /home/redproxy/Área de Trabalho/versao_2/header.h
+	<stdio.h>
+	<malloc.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+
+1446675420 source:/home/redproxy/Área de Trabalho/versao_3/main.c
+	"header.h"
+
+1446675186 /home/redproxy/Área de Trabalho/versao_3/header.h
+	<stdio.h>
+	<malloc.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+
+1446676474 source:/home/redproxy/Área de Trabalho/versao_3/funcoes.c
+	"header.h"
+
+1446676474 source:/home/redproxy/Área de Trabalho/Titanic/funcoes.c
+	"header.h"
+
+1446675186 /home/redproxy/Área de Trabalho/Titanic/header.h
+	<stdio.h>
+	<malloc.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+
+1446675420 source:/home/redproxy/Área de Trabalho/Titanic/main.c
+	"header.h"
+
